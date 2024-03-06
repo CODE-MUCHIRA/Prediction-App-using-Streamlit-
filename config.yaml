@@ -1,0 +1,17 @@
+credentials:
+  usernames:
+    mwangi:
+      email: mwangi@gmail.com
+      name: mwangi 
+      password: abc # To be replaced with hashed password
+    joy:
+      email:joy@gmail.com
+      name: joy jones
+      password: def # To be replaced with hashed password
+cookie:
+  expiry_days: 30
+  key: some_signature_key # Must be string
+  name: some_cookie_name
+preauthorized:
+  emails:
+  - try@gmail.com
