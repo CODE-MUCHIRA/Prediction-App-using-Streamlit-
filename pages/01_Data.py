@@ -37,3 +37,5 @@ connection.close()
 
 # Display DataFrame in Streamlit
 st.dataframe(df)
+
+print(df.columns)
